@@ -1,0 +1,24 @@
+{
+  "name": "imooc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/majunjun12345/Imooc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/majunjun12345/Imooc/issues"
+  },
+  "homepage": "https://github.com/majunjun12345/Imooc#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "jade": "^1.11.0",
+    "mongoose": "^5.2.14"
+  }
+}
